@@ -11,6 +11,7 @@ namespace Git1
         static void Main(string[] args)
         {
             int i = 1;
+            string s = "aaa";
         }
     }
 }
